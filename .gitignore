@@ -1,0 +1,9 @@
+*.ipynb_checkpoints
+*__pycache__
+*.mp3
+*.wav
+*.mid
+*.png
+*.jpg
+*.DS_Store
+*.npy
